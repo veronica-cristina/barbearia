@@ -1,1 +1,12 @@
+body {
+    backgroud: #CCCCCC;
+}
 
+p {
+    text-align: center;
+    background: #CCCCCC;
+}
+
+em stong {
+  color: red;
+}
